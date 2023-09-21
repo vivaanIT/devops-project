@@ -2,4 +2,4 @@
 <h2> Deploying on a Tomcat Application Sever using Jenkins </h2>
 <h2> Glad to see you here </h2>
 <h2> Time: 4:00 </h2>
-<h2> devops project </h2>
+<h2> run the project okay </h2>
